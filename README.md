@@ -28,6 +28,8 @@ Install ultralytics package.
 
 Run object detection code on pretrained YOLO26 model.
 
+**_Extended Task_**
+
 Apply object detection technique on multiple images and reconstruct them into a video having audio.
 
 ## WEEK 3
