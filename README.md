@@ -42,3 +42,13 @@ Apply the object segmentation technique on multiple image and reconstruct them i
 
 Stack the three videos i.e. raw, object-detected and object-segmented into a single video using vstack and add audio to it.
 
+## WEEK 4
+
+**_Task 1- YOLO Analysis Configuration Report_**
+
+Explore YOLO dataset directory structure and configuration files, also analyze YOLO label files containing class IDs and normalized object coordinates used for object detection training.
+
+**_Task 2- Create a YOLO-Compatible dataset_**
+
+Creat a YOLO-compatible labeled dataset using Label Studio in a separate virtual environment by extracting image frames from a real-world object detection video. Generate files required for training and validation using the YOLOv26 framework.
+
