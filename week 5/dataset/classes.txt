@@ -1,0 +1,2 @@
+normal_rbc
+sickle_cell
