@@ -50,5 +50,13 @@ Explore YOLO dataset directory structure and configuration files, also analyze Y
 
 **_Task 2- Create a YOLO-Compatible dataset_**
 
-Creat a YOLO-compatible labeled dataset using Label Studio in a separate virtual environment by extracting image frames from a real-world object detection video. Generate files required for training and validation using the YOLOv26 framework.
+Create a YOLO-compatible labeled dataset using Label Studio in a separate virtual environment by extracting image frames from a real-world object detection video. Generate files required for training and validation using the YOLOv26 framework.
 
+## WEEK 5
+
+**_Task 1 - 5_**
+1. Annotate images using label-studio, generating YOLO-compatible label files along with train/val splits and configuration files.
+2. Resize images to lower resolution(384px width) using ffmpeg.
+3. Train a pretrained YOLO model using the prepared dataset and monitor its performance.
+4. Use the trained weights to run interface on unseen test images.
+5. Generate video from predictions, also add audio to it.
