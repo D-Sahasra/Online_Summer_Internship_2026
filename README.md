@@ -59,4 +59,4 @@ Create a YOLO-compatible labeled dataset using Label Studio in a separate virtua
 2. Resize images to lower resolution(384px width) using ffmpeg.
 3. Train a pretrained YOLO model using the prepared dataset and monitor its performance.
 4. Use the trained weights to run interface on unseen test images.
-5. Generate video from predictions, also add audio to it.
+5. Generate video from predictions, stack the video with the input video for comparision, also add audio to it.
